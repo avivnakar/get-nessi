@@ -1,7 +1,6 @@
 import React from 'react';
 import logo from './logo.svg';
-import './App.s css';
-
+import './styles/App.scss';
 function App() {
   return (
     <div className="App">
